@@ -1,0 +1,12 @@
+{
+  "name": "cv-terminal",
+  "version": "1.0.0",
+  "description": "Carlos Rivero's resume",
+  "main": "index.js",
+  "author": "Carlos Rivero <criveroib@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "inquirer": "^7.0.1"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "Education 🎓": [
+    "Certificate of higher education in web development, 2013 - 2015",
+    "Tons of online courses about programming, 2016 - Infinite"
+  ],
+  "Experience 🔨": [
+    "Senior Frontend at Playtomic - https://playtomic.io/ - 2018/02 - Ongoing",
+    "Frontend Developer at atSistemas - https://www.atsistemas.com/ - 2017/04 - 2018/02",
+    "Frontend Developer at Gfi - https://gfi.world/ - 2015/10 - 2017/04"
+  ],
+  "Freelance jobs 💼": [
+    "https://prestacap.com/",
+    "https://reby.co/"
+  ],
+  "Tech skills 💻": [
+    "JavaScript",
+    "ReactJS, Redux, Saga, Thunk",
+    "Typescript",
+    "NodeJS",
+    "Jest",
+    "MongoDB",
+    "Git"
+  ],
+  "About me 🙋‍♂️": [
+    "Animals  😻 🐶",
+    "Motorbikes  🏍",
+    "Sports  🎾 ⛷",
+    "Food  🍕 🥑",
+    "Drinks  ☕️ 🍺",
+    "Reading  📚"
+  ],
+  "Contact 🤙": [
+    "https://www.linkedin.com/in/criveroib/",
+    "https://twitter.com/criveroib",
+    "https://github.com/carlosriveroib",
+    "criveroib@gmail.com"
+  ]
+}
