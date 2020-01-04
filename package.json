@@ -8,5 +8,8 @@
   "dependencies": {
     "chalk": "^3.0.0",
     "inquirer": "^7.0.1"
+  },
+  "bin": {
+    "carlos-rivero-resume": "./index.js"
   }
 }
