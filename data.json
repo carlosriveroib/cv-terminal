@@ -1,38 +1,31 @@
 {
   "Education 🎓": [
-    "Certificate of higher education in web development, 2013 - 2015",
-    "Tons of online courses about programming, 2016 - Infinite"
+    "Computer Engineering degree - Universitat Oberta de Catalunya, 2020 - Ongoing",
+    "Certificate of higher education in web development, 2013 - 2015"
   ],
   "Experience 🔨": [
-    "Senior Frontend at Playtomic - https://playtomic.io/ - 2018/02 - Ongoing",
-    "Frontend Developer at atSistemas - https://www.atsistemas.com/ - 2017/04 - 2018/02",
-    "Frontend Developer at Gfi - https://gfi.world/ - 2015/10 - 2017/04"
+    "Frontend lead at Debos - https://debos.ai/ - 2021/09 - Ongoing - Created the mobile app and web manager architecture. Lead the frontend team. Implemented UI guidelines for the company. Improving the mindset to develop faster and more effectively. Technologies: TypeScript, React, ReactNative, NextJS, ReactQuery, Vitest",
+    "Frontend lead at BBVA - https://playtomic.io/ - 2020/03 - 2021/09 - Managed the frontend creation from the beginning. Setting up the architecture of the web application and managing the Frontend team. Technologies: TypeScript, React, gRPC",
+    "Senior Frontend at Playtomic - https://playtomic.io/ - 2018/02 - 2020/03 - Web development using React, Redux and Saga. Taking advantage of React SSR for SEO positioning with Node and Koa. Continuous integration with Jenkins and containerization with Docker. Working based under Scrum methodology.",
+    "Frontend Developer at Knowmad Mood - https://www.knowmadmood.com - 2017/04 - 2018/02 - Creation and maintenance of the frontend infrastructure. Making own plugins for the clients. Using Javascript ES6, ReactJS, Webpack, Mocha, Chai.",
+    "Junior Frontend Developer at Inetum - https://www.inetum.com - 2015/10 - 2017/04 - In this project I developed frontend Javascript infrastructure using PrototypeJS, inheritance, facade pattern. I have created infrastructure in NodeJS capable of using external apps like digital signature and printing."
   ],
-  "Freelance jobs 💼": [
-    "https://prestacap.com/",
-    "https://reby.co/"
-  ],
+  "Freelance jobs 💼": ["https://enkipharma.es", "https://prestacap.com/", "https://reby.co/"],
   "Tech skills 💻": [
-    "JavaScript",
-    "ReactJS, Redux, Saga, Thunk",
-    "Typescript",
-    "Styled Components",
-    "NodeJS",
-    "Jest",
-    "MongoDB"
+    "JavaScript, Typescript",
+    "ReactJS, NextJS, ReactNative, Astro",
+    "React-Query, Redux, Zustand",
+    "Tailwind, CSS-in-JS, Stitches, SASS",
+    "NodeJS, Express, NestJS",
+    "Vitest, Jest, Cypress, Playwright",
+    "PosgreSQL, MongoDB"
   ],
-  "About me 🙋‍♂️": [
-    "Animals  😻 🐶",
-    "Motorbikes  🏍",
-    "Sports  🎾 ⛷",
-    "Food  🍕 🥑",
-    "Drinks  ☕️ 🍺",
-    "Reading  📚"
-  ],
+  "Languages": ["🇪🇸", "🇬🇧"],
+  "About me 🙋‍♂️": ["Animals  😻 🐈", "Learning  💻", "Sports  🏍 🎾 ⛷", "Food  🍕 🥑", "Drinks  ☕️ 🍺"],
   "Contact 🤙": [
-    "https://www.linkedin.com/in/criveroib/",
-    "https://twitter.com/criveroib",
+    "criveroib@gmail.com",
     "https://github.com/carlosriveroib",
-    "criveroib@gmail.com"
+    "https://www.linkedin.com/in/criveroib/",
+    "https://twitter.com/criveroib"
   ]
 }
