@@ -1,15 +1,15 @@
 {
   "name": "carlos-rivero-resume",
-  "version": "1.2.0",
+  "version": "1.4.0",
   "description": "Carlos Rivero's resume",
   "main": "index.js",
   "author": "Carlos Rivero <criveroib@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "chalk": "5.4.1",
-    "inquirer": "9.3.7"
+    "chalk": "^3.0.0",
+    "inquirer": "^7.0.1"
   },
   "bin": {
-    "carlos-rivero-resume": "./index.js"
+    "carlos-rivero-resume": "index.js"
   }
 }
